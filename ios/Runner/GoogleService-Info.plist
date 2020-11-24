@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>976637417554-s737hanq1mg8hbj3k9t8rt8eep8mfa3e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.976637417554-s737hanq1mg8hbj3k9t8rt8eep8mfa3e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb5m9soo7WrT184amEevYt1KT6Kh25vJM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>976637417554</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mpmcebes.cebesMpmNestApps</string>
+	<key>PROJECT_ID</key>
+	<string>cebesdev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cebesdev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:976637417554:ios:47c82234118a740922278b</string>
+	<key>DATABASE_URL</key>
+	<string>https://cebesdev.firebaseio.com</string>
+</dict>
+</plist>
